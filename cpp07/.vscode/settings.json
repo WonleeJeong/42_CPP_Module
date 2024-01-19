@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"iostream": "cpp",
+		"*.tpp": "cpp",
+		"stdexcept": "cpp",
+		"chrono": "cpp"
+	}
+}
